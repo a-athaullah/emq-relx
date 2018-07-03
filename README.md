@@ -9,7 +9,7 @@ Build on Linux/Unix/Mac
 -----------------------
 
 ```
-git clone https://github.com/emqtt/emq-relx.git
+git clone https://github.com/a-athaullah/emq-relx.git
 cd emq-relx && make
 cd _rel/emqttd && ./bin/emqttd console
 ```
